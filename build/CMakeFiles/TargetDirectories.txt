@@ -1,0 +1,3 @@
+/Users/christianbrown/Code/C++/currency_converter/build/CMakeFiles/test.dir
+/Users/christianbrown/Code/C++/currency_converter/build/CMakeFiles/edit_cache.dir
+/Users/christianbrown/Code/C++/currency_converter/build/CMakeFiles/rebuild_cache.dir
